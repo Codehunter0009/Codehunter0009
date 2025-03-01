@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codehunter0009
+- 👋 Hi, I’m koushiik
 - 👀 I’m interested in hackking
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on anything
